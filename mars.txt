@@ -3,3 +3,4 @@ Mars is a red planet.
 It is a rocky planet next to Earth
 ...
 next planet is Jupiter
+I like Jupiter's moons.
